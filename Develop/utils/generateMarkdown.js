@@ -19,7 +19,8 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# 
+  return `
+  ## Title
   ${data.title}
 
 ${renderLicenseBadge(data.license)}
@@ -27,9 +28,23 @@ ${renderLicenseBadge(data.license)}
   ## Description
 ${data.description}
 
-## Installation
+ ## Table of Contents
+
+ ## Installation
 ${data.installation}
-`;
+
+## Usage
+${data.usage}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+${data.questions}
+`
 }
 
 module.exports = generateMarkdown;

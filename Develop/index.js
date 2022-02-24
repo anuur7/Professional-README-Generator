@@ -22,6 +22,26 @@ const questions = [{
     type: 'input',
     name: 'installation',
     message: 'What type of package did you install?'
+}, {
+    type: 'input',
+    name: 'usage',
+    message: 'What usage information is required?'
+}, {
+    type: 'input',
+    name: 'test',
+    message: 'What type of test are required?'
+}, {
+    type: 'input',
+    name: 'contributing',
+    message: 'How many contributions have been made?'
+}, {
+    type: 'input',
+    name: 'email',
+    message: 'Enter your email address.'
+}, {
+    type: 'input',
+    name: 'github',
+    message: 'What is your github?'
 }];
 
 // TODO: Create a function to write README file
