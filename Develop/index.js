@@ -28,7 +28,7 @@ const questions = [{
     message: 'What usage information is required?'
 }, {
     type: 'input',
-    name: 'test',
+    name: 'tests',
     message: 'What type of test are required?'
 }, {
     type: 'input',

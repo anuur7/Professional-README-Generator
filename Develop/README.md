@@ -1,25 +1,37 @@
 
   ## Title
-  s
+  Professional README Generator
 
 <img src = 'https://img.shields.io/badge/license-MIT-blue.svg'>
 
   ## Description
-s
+Created a README for my homework
 
  ## Table of Contents
 
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
  ## Installation
-s
+inquirer
 
 ## Usage
-s
+not sure
 
 ## Contributing
-s
+not sure
 
 ## Tests
-undefined
+not sure
 
 ## Questions
-undefined
+Any further question?
+Send me a direct email on ayaanle-n@hotmail.com.
+You can also visit my Github profile on www.github.com/https://github.com/anuur7

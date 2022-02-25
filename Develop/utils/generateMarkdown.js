@@ -30,6 +30,16 @@ ${data.description}
 
  ## Table of Contents
 
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
  ## Installation
 ${data.installation}
 
@@ -43,7 +53,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-${data.questions}
+
 `
 }
 
