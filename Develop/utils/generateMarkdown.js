@@ -41,19 +41,24 @@ ${data.description}
 * [Tests](#tests)
 
  ## Installation
+ <a name ="installation"> </a>
 ${data.installation}
 
 ## Usage
+<a name ="usage"> </a>
 ${data.usage}
 
 ## Contributing
+<a name ="contributing"> </a>
 ${data.contributing}
 
 ## Tests
+<a name ="tests"> </a>
 ${data.tests}
 
 ## Questions
-
+ If you have any further questions, contact me on ${data.email}.
+ My github is ${data.github}.
 `
 }
 

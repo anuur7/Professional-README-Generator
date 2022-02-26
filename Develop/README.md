@@ -1,11 +1,11 @@
 
   ## Title
-  Professional README Generator
+  sasasa
 
 <img src = 'https://img.shields.io/badge/license-MIT-blue.svg'>
 
   ## Description
-Created a README for my homework
+sasa
 
  ## Table of Contents
 
@@ -20,18 +20,17 @@ Created a README for my homework
 * [Tests](#tests)
 
  ## Installation
-inquirer
+sasa
 
 ## Usage
-not sure
+sasa
 
 ## Contributing
-not sure
+dasda
 
 ## Tests
-not sure
+saasa
 
 ## Questions
-Any further question?
-Send me a direct email on ayaanle-n@hotmail.com.
-You can also visit my Github profile on www.github.com/https://github.com/anuur7
+ If you have any further questions, contact me on ayaanle-n@hotmail.com.
+ My github is anuur7.
