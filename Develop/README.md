@@ -1,11 +1,11 @@
 
   ## Title
-  sasasa
+  README generator
 
-<img src = 'https://img.shields.io/badge/license-MIT-blue.svg'>
+<img src = 'https://img.shields.io/badge/license-GNU-blue.svg'>
 
   ## Description
-sasa
+created a README for this weeks assignment
 
  ## Table of Contents
 
@@ -20,16 +20,20 @@ sasa
 * [Tests](#tests)
 
  ## Installation
-sasa
+ <a name ="installation"> </a>
+inquirer
 
 ## Usage
-sasa
+<a name ="usage"> </a>
+none
 
 ## Contributing
-dasda
+<a name ="contributing"> </a>
+just me
 
 ## Tests
-saasa
+<a name ="tests"> </a>
+none
 
 ## Questions
  If you have any further questions, contact me on ayaanle-n@hotmail.com.
