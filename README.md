@@ -14,6 +14,8 @@ Fot this weeks assignment i created a README generator. The reason for this is s
 
 ● Completed the array of questions and rendered it on the function
 
+● Created a function that returns the license section of README
+
 Deployed Link: https://anuur7.github.io/Professional-README-Generator/
 
 Link for recording: https://drive.google.com/file/d/11u-pZyUSm5Zn1rUqbDgZTI8xrjBDlcqu/view?usp=sharing
