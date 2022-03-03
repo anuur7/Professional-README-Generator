@@ -48,6 +48,10 @@ ${data.installation}
 <a name ="usage"> </a>
 ${data.usage}
 
+## Licence
+<a name ="license"> </a>
+${renderLicenseBadge(data.license)}
+
 ## Contributing
 <a name ="contributing"> </a>
 ${data.contributing}

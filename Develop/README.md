@@ -1,11 +1,11 @@
 
   ## Title
-  README generator
+  aa
 
-<img src = 'https://img.shields.io/badge/license-GNU-blue.svg'>
+<img src = 'https://img.shields.io/badge/license-MIT-blue.svg'>
 
   ## Description
-created a README for this weeks assignment
+aa
 
  ## Table of Contents
 
@@ -21,20 +21,24 @@ created a README for this weeks assignment
 
  ## Installation
  <a name ="installation"> </a>
-inquirer
+aaa
 
 ## Usage
 <a name ="usage"> </a>
-none
+aa
+
+## Licence
+<a name ="license"> </a>
+<img src = 'https://img.shields.io/badge/license-MIT-blue.svg'>
 
 ## Contributing
 <a name ="contributing"> </a>
-just me
+aa
 
 ## Tests
 <a name ="tests"> </a>
-none
+aa
 
 ## Questions
- If you have any further questions, contact me on ayaanle-n@hotmail.com.
- My github is anuur7.
+ If you have any further questions, contact me on aa.
+ My github is aa.
