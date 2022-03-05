@@ -55,7 +55,7 @@ function init() {
     inquirer.prompt(questions).then((answers) => {
         console.log(answers)
         const markdown = generateMarkdown(answers)
-        writeToFile('README.md', markdown)
+        writeToFile('./README/README.md', markdown)
     })
 }
 
