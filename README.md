@@ -20,5 +20,5 @@ Deployed Link: https://anuur7.github.io/Professional-README-Generator/
 
 Link for recording: https://drive.google.com/file/d/11u-pZyUSm5Zn1rUqbDgZTI8xrjBDlcqu/view?usp=sharing
 
-![alt text](./Develop/images/myreadme.png)
+![alt text](images/myreadme.png)
 
